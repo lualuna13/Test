@@ -1,0 +1,22 @@
+body {
+  background-color: blueviolet;
+}
+
+.ti {
+  color: white;
+  font-size: 40px;
+  background-color: lightcoral
+}
+
+.par {
+  color: white;
+}
+
+.list {
+  color: white;
+}
+
+.enl {
+  color: white;
+  font-size: 26px;
+}
